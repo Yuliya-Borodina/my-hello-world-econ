@@ -27,4 +27,6 @@ drop year
 
 rename year1 year
 
+sum year
+
 save "/Users/YA/Google Drive/Capstone_2/data/data prep/co2_all.dta", replace
